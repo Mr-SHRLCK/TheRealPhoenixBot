@@ -1,6 +1,6 @@
 import datetime
 import importlib
-import r
+import re
 from typing import Optional, List
 
 from pyrogram import idle
